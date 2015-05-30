@@ -1,0 +1,9 @@
+GIT status
+
+Lists	 files are changed since last commit
+
+
+GIT init
+Initializes and creates a new GIT repository
+Will not have commits
+All the files present in the directory will be untraced files
