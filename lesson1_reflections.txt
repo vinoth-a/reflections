@@ -1,0 +1,51 @@
+Lesson GIT 1
+
+Importance of software versioning
+      Can track all the  changes done from the first version
+      Esier to restor to the previous version 
+
+File comparison  done manually and using tools provided in different operating systems
+   There are higher chances of missing typos if  versions are compared manually.
+   Its better to use any of these tools which will improve the productivity greatly.
+
+
+Functionalities required for software versioning
+
+As a programmerr, when will i require my program to be versioned
+
+Any Editor use Offline  Manual Save
+
+
+GIT-->Unpleast person
+egoistic and bastart
+preparing reflection notes
+
+
+
+                        Version Contrl
+
+ Manual      Drop 
+ Saving           
+
+                        COMMIT
+
+A commit is snapshot of every file  in the repository at the time of commit
+
+
+In Software project, multiple files may be closely related to each other.  Hence it makes sense to track the files together rather than individually     
+
+
+GIT Clone
+    Copies the entire repository with all the versions to local a specified local repository.  Since the entire repo is copied locally, Most of the things can be done locally without connecting to net.
+
+GIT Log
+    Used to get list of full commits done on the repo.  It also displays the commit comments.
+
+GIT Diff
+    Used to get the difference between two GIT commit points                   
+
+G
+
+
+By using version control i can go back to any of my the previous versions of my software and find out what was the behavior then.  I can use git diff to find the chagnes between two version,that has caused the  change in behavior
+
